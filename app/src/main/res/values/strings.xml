@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Firebase_Login</string>
+    <string name="google_client_id">your client id</string>
 </resources>
